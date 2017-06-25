@@ -40,7 +40,7 @@ function twitter(){
 		access_token_secret: twitterKeys.access_token_secret
   });
   // what to search for
-  var params = {screen_name: 'creativelaurels'};
+  var params = {screen_name: 'Af'};
   //console.log(params);
 
   // using the npm
